@@ -7,6 +7,8 @@ const Home = () => (
 
     <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
 
+    <img src="https://petsofnetlify.com/images/maximiliano.jpg" />
+
     <style jsx>{`
       :global(html,body) {
         margin: 0;
