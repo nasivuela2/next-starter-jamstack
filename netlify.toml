@@ -1,12 +1,2 @@
-[build]
-  command = "npm run build"
-  publish = "out"
-
 [[plugins]]
-package = "@netlify/plugin-sitemap"
-
-  [plugins.inputs]
-  buildDir = "out"
-
-[[plugins]]
-package = "netlify-plugin-a11y"
+package = "./plugin-fail.js"
