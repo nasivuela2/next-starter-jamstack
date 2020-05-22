@@ -1,2 +1,2 @@
 [[plugins]]
-package = "./plugin-fail.js"
+package = "./plugin-build-cancel.js"
